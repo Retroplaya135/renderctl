@@ -1,0 +1,6 @@
+{
+  "models": [
+    {"id": "fixture/image-basic", "kind": "image", "inputs": ["prompt", "width", "height"]},
+    {"id": "fixture/video-basic", "kind": "video", "inputs": ["prompt", "duration_seconds"]}
+  ]
+}
